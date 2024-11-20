@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nombre": "Funcionario Primero",
+    "correo": "funcionario1@example.com",
+    "telefono": "+57 300 123 4567",
+    "profesion": "Ingeniero de Software",
+    "cv_link": "https://example.com/cv-carlos-lopez.pdf",
+    "imagen": "./assets/img/funcionario1.jpg"
+  }
+]
