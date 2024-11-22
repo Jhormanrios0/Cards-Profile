@@ -5,16 +5,24 @@
     "correo": "funcionario1@example.com",
     "telefono": "+57 300 123 4567",
     "profesion": "Ingeniero de Software",
+    "descripcion": "Passionate about creating user-friendly web applications and solving complex problems.",
+    "pais": "Colombia",
+    "departamento": "Antioquia",
+    "ciudad": "Medellín",
     "cv_link": "https://example.com/cv-carlos-lopez.pdf",
     "imagen": "./assets/img/funcionarioPrincipal.jfif"
   },
   {
     "id": 2,
     "nombre": "El Nomo",
-    "correo": "funcionario1@example.com",
-    "telefono": "+57 300 123 4567",
+    "correo": "funcionario2@example.com",
+    "telefono": "+57 300 123 4568",
     "profesion": "Backend Developer",
-    "cv_link": "https://example.com/cv-carlos-lopez.pdf",
+    "descripcion": "Experienced in building robust backend systems and APIs.",
+    "pais": "Colombia",
+    "departamento": "Antioquia",
+    "ciudad": "Medellín",
+    "cv_link": "https://example.com/cv-nomo.pdf",
     "imagen": "./assets/img/funcionariosecundario.jfif"
   }
 ]
