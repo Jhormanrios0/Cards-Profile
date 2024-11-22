@@ -1,11 +1,20 @@
 [
   {
     "id": 1,
-    "nombre": "Funcionario Primero",
+    "nombre": "Funcionario Primero2",
     "correo": "funcionario1@example.com",
     "telefono": "+57 300 123 4567",
     "profesion": "Ingeniero de Software",
     "cv_link": "https://example.com/cv-carlos-lopez.pdf",
-    "imagen": "./assets/img/funcionario1.jpg"
+    "imagen": "./assets/img/funcionarioPrincipal.jfif"
+  },
+  {
+    "id": 2,
+    "nombre": "El Nomo",
+    "correo": "funcionario1@example.com",
+    "telefono": "+57 300 123 4567",
+    "profesion": "Backend Developer",
+    "cv_link": "https://example.com/cv-carlos-lopez.pdf",
+    "imagen": "./assets/img/funcionariosecundario.jfif"
   }
 ]
